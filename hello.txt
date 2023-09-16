@@ -4,3 +4,4 @@ Have a nice day
 
 Mencoba melakukan squashing
 - squash 1
+- squash 2
