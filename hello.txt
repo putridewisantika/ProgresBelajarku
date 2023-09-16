@@ -1,3 +1,4 @@
 Aku berada di Dunia ini
 
-
+Mencoba melakukan squash: 
+- Menambahkan squash 1
