@@ -1,2 +1,8 @@
-Hello World 
-How are you?
+Hello World
+How are you? 
+Have a nice day 
+
+Mencoba melakukan squashing
+- squash 1
+- squash 2
+- squash 3
