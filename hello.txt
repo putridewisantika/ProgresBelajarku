@@ -1,3 +1,2 @@
-Aku berada di Dunia ini
-
-
+Hello World 
+Aku berdiri didunia
