@@ -1,3 +1,6 @@
 Hello World
 How are you? 
-Have a nice day
+Have a nice day 
+
+Mencoba melakukan squashing
+- squash 1
